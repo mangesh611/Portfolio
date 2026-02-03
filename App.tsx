@@ -285,7 +285,7 @@ const App: React.FC = () => {
           </div>
 
           <div className="mt-24 pt-12 border-t border-beige/10 flex flex-col md:flex-row justify-between items-center gap-6">
-            <p className="text-sm text-beige/40">© {new Date().getFullYear()} Harsh Kishor Chudasama. Built for high-end results.</p>
+            <p className="text-sm text-beige/40">© {new Date().getFullYear()} Mangesh Upadhyay. All Rights Reserved.</p>
             <div className="flex gap-8 text-xs font-bold uppercase tracking-widest text-beige/60">
               {LANGUAGES.map((lang, i) => (
                 <span key={i}>{lang}</span>
